@@ -1,4 +1,4 @@
-## BSD 2-Clause License
+## BSD 2-Clause "Simplified" License
 
 Copyright (c) 2018, Alexey Kopytko
 *All rights reserved.*
